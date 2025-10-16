@@ -1,9 +1,13 @@
 <!-- Micah Wambua - GitHub Profile README -->
 
 <h1 align="center">Hey there 👋, I'm Micah Wambua</h1>
-<h3 align="center">Python Backend Developer | Data Analyst | Aspiring Full Stack Engineer 🚀</h3>
 
----
+<p align="center">
+  <a href="https://github.com/back1drop" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Python+Backend+Developer+💻;Data+Analyst+📊;Future+Full+Stack+Engineer+🚀;Tech+Explorer+and+Lifelong+Learner+🌱" alt="Typing Animation Header" />
+  </a>
+</p>
+
 
 ### 👨‍💻 About Me
 
