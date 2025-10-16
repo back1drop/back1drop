@@ -73,15 +73,14 @@ Currently, I’m sharpening my skills in **Data Science** and **Full Stack Engin
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MicahWambua&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MicahWambua&theme=tokyonight" alt="GitHub streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=back1drop&show_icons=true&theme=radical" alt="back1drop's GitHub stats" height="160" />
+  <img src="https://streak-stats.demolab.com?user=back1drop&theme=radical" alt="GitHub Streak" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicahWambua&layout=compact&theme=tokyonight" alt="Top languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=back1drop&layout=compact&theme=radical" alt="Top Languages" height="160" />
 </p>
 
----
 
 ### 🌐 Connect With Me
 
