@@ -1,12 +1,22 @@
-<!-- Micah Wambua - GitHub Profile README -->
+<!-- PROFILE HEADER : Micah Wambua / back1drop -->
 
 <h1 align="center">Hey there 👋, I'm Micah Wambua</h1>
 
+<!-- Typing animation (primary) - uses readme-typing-svg.demolab.com -->
 <p align="center">
-  <a href="https://github.com/back1drop" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Python+Backend+Developer+💻;Data+Analyst+📊;Future+Full+Stack+Engineer+🚀;Tech+Explorer+and+Lifelong+Learner+🌱" alt="Typing Animation Header" />
+  <a href="https://github.com/back1drop" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Python+Backend+Developer+%F0%9F%92%BB;Data+Analyst+%F0%9F%93%8A;Future+Full+Stack+Engineer+%F0%9F%9A%80;Tech+Explorer+and+Lifelong+Learner+%F0%9F%8C%B1"
+      alt="Typing Animation Header"
+    />
   </a>
 </p>
+
+<!-- Fallback: if animation doesn't load for any reason, show a plain headline -->
+<p align="center">
+  <strong>Python Backend Developer 💻  •  Data Analyst 📊  •  Future Full Stack Engineer 🚀</strong>
+</p>
+
 
 
 ### 👨‍💻 About Me
@@ -74,6 +84,7 @@ Currently, I’m sharpening my skills in **Data Science** and **Full Stack Engin
 
 ---
 
+<!-- GitHub Stats -->
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
@@ -83,6 +94,13 @@ Currently, I’m sharpening my skills in **Data Science** and **Full Stack Engin
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=back1drop&layout=compact&theme=radical" alt="Top Languages" height="160" />
+</p>
+
+<!-- Trophies (achievement badges) -->
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=back1drop&theme=radical&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 
