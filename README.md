@@ -88,7 +88,7 @@ Currently, I’m sharpening my skills in **Data Science** and **Full Stack Engin
   <a href="https://www.linkedin.com/in/micah-wambua-278579277/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:micahwaita@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/MicahWambua" target="_blank">
